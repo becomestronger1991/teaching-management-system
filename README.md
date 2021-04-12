@@ -1,4 +1,5 @@
 # teaching-management-system
+# pycharm with python interpreter version 3.6 or higher
 本周作业
 
 角色:学校、学员、课程、讲师
